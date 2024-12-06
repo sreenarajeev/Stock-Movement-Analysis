@@ -1,0 +1,6 @@
+telethon==1.30.0
+textblob==0.17.1
+pandas==1.5.3
+scikit-learn==1.2.2
+matplotlib==3.7.2
+nest-asyncio==1.5.6
